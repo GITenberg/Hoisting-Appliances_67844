@@ -1,0 +1,39 @@
+_repo: Hoisting-Appliances_67844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: International Correspondence Schools
+    aliases:
+    - Escuelas Internacionales de la America Latina
+    - I.C.S. (International Correspondence Schools)
+    - Intext Inc. International Correspondence Schools
+    - International Textbook Company. International Correspondence Schools
+    - Escuelas Internacionales de la América Latina
+    - International Correspondence Schools, Scranton, Pa.
+    - ICS (International Correspondence Schools)
+    gutenberg_agent_id: '54478'
+    url: http://www.gutenberg.org/2009/agents/54478
+description: ''
+gutenberg_issued: '2022-04-15'
+identifiers:
+  gutenberg: '67844'
+language: en
+pgterms:marc904: https://archive.org/details/hoistingapplianc00inte
+pgterms:marc905: 20201216123306anon
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :International Textbook Company,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Hoisting, parts 3-4
+subjects:
+- !lcc 'TJ'
+- !lcsh 'Hoisting machinery'
+- !lcc 'TN'
+- !lcsh 'Mine hoisting'
+- GITenberg
+title: Hoisting Appliances
+url: http://www.gutenberg.org/ebooks/67844
